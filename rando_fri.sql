@@ -102,4 +102,10 @@ where customer_id not in (
 
 --which customer have a cart 
 --same as above but in rather than not in
+select * from film_actor;
 
+
+--random del commands:
+--DELETE FROM <table name> WHERE <condition>
+--DROP TABLE <table name>;
+--from dbeaver just right-click and hit delete. . . 
